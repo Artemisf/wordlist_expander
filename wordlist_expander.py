@@ -36,7 +36,7 @@ if number_of_arguments < 5:
 	addcontent = inputlist[3]
 
 
-#Just for debugging, remove later on
+
 	print('\ninputfile:')
 	print(inputfile)
 	print('\n\n')
